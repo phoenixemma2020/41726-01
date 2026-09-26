@@ -1292,6 +1292,78 @@ Row event argument class
 Row event argument class
 </summary>
 </member>
+<member name="T:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service">
+<remarks/>
+</member>
+<member name="M:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.#ctor">
+<remarks/>
+</member>
+<member name="E:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.InUpPPTLabValuesCompleted">
+<remarks/>
+</member>
+<member name="E:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.InUpPPTLabValueMinMaxsCompleted">
+<remarks/>
+</member>
+<member name="E:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.InUpDDCLabUnitsCompleted">
+<remarks/>
+</member>
+<member name="M:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.InUpPPTLabValues(System.String[],System.String)">
+<remarks/>
+</member>
+<member name="M:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.InUpPPTLabValuesAsync(System.String[],System.String)">
+<remarks/>
+</member>
+<member name="M:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.InUpPPTLabValuesAsync(System.String[],System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.InUpPPTLabValueMinMaxs(System.String[],System.String)">
+<remarks/>
+</member>
+<member name="M:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.InUpPPTLabValueMinMaxsAsync(System.String[],System.String)">
+<remarks/>
+</member>
+<member name="M:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.InUpPPTLabValueMinMaxsAsync(System.String[],System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.InUpDDCLabUnits(System.String[],System.String)">
+<remarks/>
+</member>
+<member name="M:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.InUpDDCLabUnitsAsync(System.String[],System.String)">
+<remarks/>
+</member>
+<member name="M:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.InUpDDCLabUnitsAsync(System.String[],System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:TRTSystem.v34_pt4_checkerror.v34_PT4_Check_Error_Service.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:TRTSystem.v34_pt4_checkerror.InUpPPTLabValuesCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:TRTSystem.v34_pt4_checkerror.InUpPPTLabValuesCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:TRTSystem.v34_pt4_checkerror.InUpPPTLabValuesCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:TRTSystem.v34_pt4_checkerror.InUpPPTLabValueMinMaxsCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:TRTSystem.v34_pt4_checkerror.InUpPPTLabValueMinMaxsCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:TRTSystem.v34_pt4_checkerror.InUpPPTLabValueMinMaxsCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:TRTSystem.v34_pt4_checkerror.InUpDDCLabUnitsCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:TRTSystem.v34_pt4_checkerror.InUpDDCLabUnitsCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:TRTSystem.v34_pt4_checkerror.InUpDDCLabUnitsCompletedEventArgs.Result">
+<remarks/>
+</member>
 <member name="T:TRTSystem.v331_dc1.v331_DC1_Service">
 <remarks/>
 </member>
